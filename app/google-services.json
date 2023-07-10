@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751310354100",
+    "project_id": "sesion13-3ccdf",
+    "storage_bucket": "sesion13-3ccdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751310354100:android:4613e8edc8cac6bd5a89e1",
+        "android_client_info": {
+          "package_name": "com.angelchira.clase13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751310354100-uesdthpdutuf8i7r7rtasqcgm5tns1tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPMZpvSR-SqIX4ycDCCUAiYoubMtLJNm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751310354100-uesdthpdutuf8i7r7rtasqcgm5tns1tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
